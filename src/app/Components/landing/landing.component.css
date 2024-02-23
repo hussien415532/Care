@@ -1,0 +1,10 @@
+.logo {
+  width: 30rem;
+}
+.group {
+  width: 47rem;
+}
+.back {
+  filter: blur(2px);
+  -webkit-filter: blur(2px);
+}
